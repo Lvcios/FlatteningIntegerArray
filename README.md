@@ -1,2 +1,0 @@
-# FlatteningIntegerArray
-Created with CodeSandbox
